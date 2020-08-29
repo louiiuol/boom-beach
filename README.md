@@ -1,4 +1,4 @@
-# Boom Beach V1 – Bâtiments (ressource, réserve, défense)
+# Boom Beach V1
 
 
 
